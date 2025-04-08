@@ -31,8 +31,11 @@ Task 1. Begin by creating an Activity struct or class that will hold just one ac
 > [!CAUTION]
 > Task 2. Next, create a .h file for the Fun_Activities class with stubs for each of the member functions (i.e., functions without bodies must like you experience in lab).
 There should be one .h file and two .cpp files
+
 • The .h file should contain #includes, constants, structs, prototypes, and a class interface
+
 • Main.cpp – This should contain main and any menu functions that you may want to have
+
 • Activities.cpp – This should start by containing stub functions (just the header of the member functions with {} for the body) for each of the member functions you will be implementing.
 
 > [!CAUTION]
